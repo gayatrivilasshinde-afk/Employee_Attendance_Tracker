@@ -26,8 +26,11 @@ The Employee Attendance Tracker is an interactive Microsoft Excel dashboard desi
 -Filters
 ## Dashboard Preview
 
-![Employee Attendance Tracker .png]
-[Dashboard .png]
+### Main Dashboard
+![Dashboard](Images/Dashboard.png)
+
+### Detailed View
+![Dashboard Details](Images/Dashboard_Details.png)
 ## Key Insights
 
 •  Finance, IT, and Operations maintained the    highest attendance (95%), whereas HR and Sales  had lower attendance rates. 
